@@ -1,1 +1,2 @@
 # hello-world
+I want to create a website which want to be user-friendly and want to learn the trending designs which are now using in the organisation. My goal is to be master in all the front-end tools like HTML, CSS, Javascript, REACT, etc., and make sure everthing is responsive for the mobile view.
